@@ -19,7 +19,6 @@
 #define GR_H_
 
 #include <stdint.h>
-# include <sys/user.h>
 #include <limits.h>
 #include <sys/cdefs.h>
 #include <hardware/gralloc.h>
